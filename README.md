@@ -23,7 +23,7 @@ Automation using selenium web driver with java
 ## 🧪 Test Scenario
 
 - Open Amazon.in
-- Search for a product (e.g., "iPhone 14")
+- Search for a product (e.g., "macbook m4 air")
 - Click on the first product result
 - Click “Buy Now”
 - Enter email and password
